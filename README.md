@@ -1,1 +1,0 @@
-# jobeasy-git-training
